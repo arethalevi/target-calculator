@@ -1,6 +1,6 @@
 #meminta input dari pengguna
 harga_target = int(input("Masukkan total harga rumah yang anda inginkan: "))
-gaji_bulanan = int(input("Masukkan Gaji bulanan anda: "))
+gaji_bulanan = int(input("Masukkan Gaji Bulanan anda: "))
 persen_untuk_ditabung = int(input("Berapa persen yang anda sisihkan untuk ditabung? "))
 persen_untuk_investasi = int(input("Berapa persen yang anda sisihkan untuk investasi? "))
 
